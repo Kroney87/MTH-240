@@ -1,0 +1,7 @@
+MTH-240 Vocab:
+Consistent:
+Inconsistent:
+Basic Variable:
+Free Variable:
+Augmented Matrix:
+Coefeccient Matrix:
