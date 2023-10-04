@@ -1,7 +1,29 @@
 MTH-240 Vocab:
-Consistent:
+Consistent {
+A linear system with at least one solution.
+}
 Inconsistent:
-Basic Variable:
-Free Variable:
-Augmented Matrix:
-Coefeccient Matrix:
+Basic Variable {
+A variable in a linear system that corresponds to a pivot column in the coefficient matrix.
+}
+Free Variable {
+Any variable in a linear system that is not a basic variable.
+}
+Augmented Matrix {
+A matrix made up of a coefficient matrix for a linear system and one or more columns to the right. Each extra column contains the constants from the right side of a system with the given coefficient matrix.
+}
+Coefeccient Matrix {
+(matrix of coefficients) A matrix whose entries are the coefficients of a system of linear equations.
+}
+Linearly Independent {
+
+}
+Linearly Dependent {}
+Linearly Independent (vectors) {}
+Linearly Dependent (vectors) {}
+Foward Phase {
+(of row reduction) The first part of the algorithm that reduces a matrix to echelon form.
+}
+Linear Combination { 
+A sum of scalar multiples of vectors. The scalars are called the 
+}
