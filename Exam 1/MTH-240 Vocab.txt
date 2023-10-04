@@ -16,11 +16,11 @@ Coefeccient Matrix {
 (matrix of coefficients) A matrix whose entries are the coefficients of a system of linear equations.
 }
 Linearly Independent {
-
+An indexed set  with the property that the vector equation has only the trivial solution. 
 }
-Linearly Dependent {}
-Linearly Independent (vectors) {}
-Linearly Dependent (vectors) {}
+Linearly Dependent {
+An indexed set  with the property that there exist weights  not all zero, such that. That is, the vector equation has a nontrivial has a nontrivia solution.
+}
 Foward Phase {
 (of row reduction) The first part of the algorithm that reduces a matrix to echelon form.
 }
