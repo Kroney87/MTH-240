@@ -40,3 +40,4 @@ Onto/Surjective {
 (mapping) A mapping such that each in is the image of at least is the image of at least is the image of at least one X in R^n.
 }
 Identity Matrix {}
+Determinant {}
