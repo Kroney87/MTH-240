@@ -39,5 +39,18 @@ One-to-One/Injective {
 Onto/Surjective {
 (mapping) A mapping such that each in is the image of at least is the image of at least is the image of at least one X in R^n.
 }
-Identity Matrix {}
-Determinant {}
+Standard Matrix {
+(for the linear transformation T) The matrix A such that T(x) = Ax for all x in the domain of T.
+}
+Span {
+The linear space formed by all the vectors that can be written as linear combinations of the vectors belonging to the given set.
+}
+Linear Transformation {
+A function from one vector space to another that respects the underlying (linear) structure of each vector space.
+}
+Identity Matrix {
+(denoted by I or I_n) A square matrix with ones on the diagonal and zeros elsewhere.
+}
+Determinant {
+(of a square matrix A) The number det A defined inductively by a cofactor expansion along the first row of A. Also, (-1)^r times the product of the diagonal entries in any echelon form U obtained from A by row replacements and r row interchanges (but no saling operations).
+}
