@@ -1,0 +1,56 @@
+MTH-240 Vocab:
+Consistent {
+A linear system with at least one solution.
+}
+Inconsistent:
+Basic Variable {
+A variable in a linear system that corresponds to a pivot column in the coefficient matrix.
+}
+Free Variable {
+Any variable in a linear system that is not a basic variable.
+}
+Augmented Matrix {
+A matrix made up of a coefficient matrix for a linear system and one or more columns to the right. Each extra column contains the constants from the right side of a system with the given coefficient matrix.
+}
+Coefeccient Matrix {
+(matrix of coefficients) A matrix whose entries are the coefficients of a system of linear equations.
+}
+Trivial Solution {
+The solution x = 0 of a homogeneous equation Ax=0.
+}
+Nontrivial Solution {
+A nonzero solution of a homogeneous equation or system of homogeneous equations.
+}
+Linearly Independent {
+An indexed set  with the property that the vector equation has only the trivial solution. 
+}
+Linearly Dependent {
+An indexed set  with the property that there exist weights not all zero, such that. That is, the vector equation has a nontrivial has a nontrivia solution.
+}
+Foward Phase {
+(of row reduction) The first part of the algorithm that reduces a matrix to echelon form.
+}
+Linear Combination { 
+A sum of scalar multiples of vectors. The scalars are called the 
+}
+One-to-One/Injective {
+(mapping) A mapping such that each in is the image of at most is the image of at most is the image of at most one X in R^n.
+}
+Onto/Surjective {
+(mapping) A mapping such that each in is the image of at least is the image of at least is the image of at least one X in R^n.
+}
+Standard Matrix {
+(for the linear transformation T) The matrix A such that T(x) = Ax for all x in the domain of T.
+}
+Span {
+The linear space formed by all the vectors that can be written as linear combinations of the vectors belonging to the given set.
+}
+Linear Transformation {
+A function from one vector space to another that respects the underlying (linear) structure of each vector space.
+}
+Identity Matrix {
+(denoted by I or I_n) A square matrix with ones on the diagonal and zeros elsewhere.
+}
+Determinant {
+(of a square matrix A) The number det A defined inductively by a cofactor expansion along the first row of A. Also, (-1)^r times the product of the diagonal entries in any echelon form U obtained from A by row replacements and r row interchanges (but no saling operations).
+}
